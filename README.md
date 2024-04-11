@@ -1,16 +1,18 @@
-### Hi there 👋
 
-<!--
-**AlejandroDojo/AlejandroDojo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# About me
+Information about me, who i am and what i do.
 
-Here are some ideas to get you started:
+I am doing now an bootcamp with <a href="https://www.codingdojo.com/">Coding Dojo</a>
+here we can find my Dojo Assigments.
+## My Completed Assigments
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ - [Hidrate Calculator in Spanish](https://github.com/alejandroferr54/hidratacionbasal.github.io)
+ - [An HTML Wordle Game](https://github.com/alejandroferr54/worldword.github.io)
+ - [A Simple Page Structure](https://alejandrodojo.github.io/Profile-Page/)
+ - Here soon!
+
+
+## 🛠 Skills
+Javascript, HTML, CSS... \
+Soon => ```Node.js, Express, MongoDB, React.. etc ```
+
